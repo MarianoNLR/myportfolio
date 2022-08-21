@@ -121,12 +121,12 @@ header{
     max-height: 200px;
 }
 
-a{
+.card{
     text-decoration: none;
     color: black;  
 }
 
-a:hover{
+.card:hover{
     color: black!important;
     cursor: pointer;
 }
@@ -144,6 +144,7 @@ a:hover{
 
 .social-media ul a{
     color: aliceblue;
+    text-decoration: none;
 }
 
 .social-media ul a li:hover{
